@@ -1,6 +1,6 @@
 # What this does ? 
 
-This program imports the olivetti-faces dataset and applies Naive Bayes, Support Vector Machines and Logistic Regression Classifiers with different PCA values to find out the most accurate classifier with a reasonable PCA value.
+This program imports the olivetti-faces dataset and applies Naive Bayes, Support Vector Machines and Logistic Regression Classifiers with different PCA values to classify faces in the dataset and to find out the most accurate classifier for this scenario.
 
 
 # Results 
